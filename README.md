@@ -6,6 +6,6 @@ Using a hash map and vectors, create a text interface to allow a user to add emp
 
 Syntax:
 
-adding data: "add <name> <department>"    // can also include 'to' between name and department
+adding data: "add [name] [department]"    // can also include 'to' between name and department
 
-reading data: "get <name>" or "get all"
+reading data: "get [name]" or "get all"
